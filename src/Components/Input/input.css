@@ -1,0 +1,15 @@
+.Invalid {
+  background: #fbdada;
+  border: 1px solid #fbdada;
+}
+.email {
+  display: flex;
+  gap: 5.5rem;
+  align-items: center;
+}
+.password {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  margin-top: 2rem;
+}
